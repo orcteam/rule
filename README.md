@@ -1,11 +1,4 @@
-# rules
-Miêu tả nhóm
-
----
-title: Hướng dẫn viết bài cho VNSecurity.net
-author: admin
-layout: default_sidebar
----
+# Hướng dẫn viết bài cho orcteam
 
 ### Viết bài cho orcteam
 ***
