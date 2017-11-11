@@ -30,7 +30,7 @@ Ngôn ngữ định dạng chính cho các bài viết là [Markdown](http://en.
 
 ##### Hình ảnh và tập tin tài nguyên
 
-Tất cả tập tin hình của vnsecurity.net được chứa ở thư mục `assets`. Để cho dễ quản lý, chúng ta quy ước các hình ảnh minh họa cho bài viết trong cùng một tháng sẽ được đặt trong cùng một thư mục con tại `assets/<năm>/<tháng>`. Sau khi đã chép tập tin hình ảnh vào đúng thư mục, bạn có tham chiếu đến nó trong bài viết như sau:
+Tất cả tập tin hình của orcteam được chứa ở thư mục `assets`. Để cho dễ quản lý, chúng ta quy ước các hình ảnh minh họa cho bài viết trong cùng một tháng sẽ được đặt trong cùng một thư mục con tại `assets/<năm>/<tháng>`. Sau khi đã chép tập tin hình ảnh vào đúng thư mục, bạn có tham chiếu đến nó trong bài viết như sau:
 
 <code>
     ![Hình củ hành]( {{"{{"}}site.url}}/assets/2014/08/Tor_logo1.png)
@@ -38,7 +38,7 @@ Tất cả tập tin hình của vnsecurity.net được chứa ở thư mục `
 
 Với định dạng trên, nội dung HTML được tạo ra sẽ là
 
-    <img alt="Hình củ hành" src="http://vnsecurity.net/assets/2014/08/Tor_logo1.png" />
+    <img alt="Hình củ hành" src="orcteam.github.io//assets/2014/08/Tor_logo1.png" />
     
 Các quy tắc trên cũng được áp dụng cho các loại tập tin tài nguyên khác như `.txt`, `.pdf`, ...
 
